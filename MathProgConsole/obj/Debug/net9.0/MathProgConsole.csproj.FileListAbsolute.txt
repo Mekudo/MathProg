@@ -1,0 +1,14 @@
+G:\MathProg\MathProgConsole\MathProgConsole\bin\Debug\net9.0\MathProgConsole.exe
+G:\MathProg\MathProgConsole\MathProgConsole\bin\Debug\net9.0\MathProgConsole.deps.json
+G:\MathProg\MathProgConsole\MathProgConsole\bin\Debug\net9.0\MathProgConsole.runtimeconfig.json
+G:\MathProg\MathProgConsole\MathProgConsole\bin\Debug\net9.0\MathProgConsole.dll
+G:\MathProg\MathProgConsole\MathProgConsole\bin\Debug\net9.0\MathProgConsole.pdb
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.AssemblyInfoInputs.cache
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.AssemblyInfo.cs
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.csproj.CoreCompileInputs.cache
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.dll
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\refint\MathProgConsole.dll
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.pdb
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.genruntimeconfig.cache
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\ref\MathProgConsole.dll
