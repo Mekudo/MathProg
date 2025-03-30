@@ -12,3 +12,4 @@ G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\refint\MathProgCons
 G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.pdb
 G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.genruntimeconfig.cache
 G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\ref\MathProgConsole.dll
+G:\MathProg\MathProgConsole\MathProgConsole\obj\Debug\net9.0\MathProgConsole.sourcelink.json
